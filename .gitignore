@@ -1,0 +1,10 @@
+/Data/Unprocessed/Intern*/
+.ipynb_checkpoints
+*_dropped.csv
+Data/Processed
+Data/HP_Results
+checkpoints
+Data/Evaluation
+Data/Confidence
+Imgs
+**/__pycache__
