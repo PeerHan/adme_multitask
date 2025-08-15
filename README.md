@@ -1,5 +1,6 @@
 # ADME Multitask
-ADD ABSTRACT TEXT
+Accurate predictions of compound properties are crucial for enhancing drug discovery by expediting processes and increasing success rates. This study focuses on predicting key pharmacokinetic endpoints related to Absorption, Distribution, Metabolism, and Excretion (ADME), leveraging extensive internal and newly available public hiqh-quality ADME data. We assess data-integration strategies for ADME prediction across six endpoints using single‑source (internal or public), pooled single‑task, and multi‑task learning models. 
+Models trained on combined data — especially multi-task models — generally outperform single‑source baselines, with consistent gains on public tests and frequent gains on internal tests when public data complement and are proportionally balanced with in‑house data size. Applicability domain analyses show that multi-task learning reduces error for compounds with higher similarity to the training space, indicating better generalization across combined spaces. Analysis of prediction uncertainties mirrors these observations. Our study underscores that curated integration of high‑quality public datasets with proprietary data can deliver more accurate and better‑calibrated in silico ADME models to support computational compound design in drug discovery.
 
 ## Citation
 
